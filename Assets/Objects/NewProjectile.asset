@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c8ca61b6ffe85e4295da6180bbd8e25, type: 3}
+  m_Name: NewProjectile
+  m_EditorClassIdentifier: 
+  p_Name: Meteor
+  p_Description: fockin eeteor
+  p_LifePoints: 1
+  p_DamagePoints: 1
+  p_Speed: 2
+  p_GFX: {fileID: 2283621436511987807, guid: fc582d61c2ce3904cb122dcd616ba0f8, type: 3}
+  p_Particles: {fileID: 5274827434696986887, guid: e7fab6ce30dc7c744991321adf50066e,
+    type: 3}
